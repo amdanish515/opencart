@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-04T18:40:46 IST" name="Suite" finished-at="2023-06-04T18:40:54 IST" duration-ms="8511">
+    <groups>
+      <group name="Smoke">
+        <method signature="TC_001_AccountRegisteration.test_account_Registration()[pri:0, instance:testCases.TC_001_AccountRegisteration@17f9d882]" name="test_account_Registration" class="testCases.TC_001_AccountRegisteration"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test started-at="2023-06-04T18:40:46 IST" name="ChromeTest" finished-at="2023-06-04T18:40:54 IST" duration-ms="8511">
+      <class name="testCases.TC_001_AccountRegisteration">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:testCases.TC_001_AccountRegisteration@17f9d882]" started-at="2023-06-04T18:40:46 IST" name="setUp" finished-at="2023-06-04T18:40:49 IST" duration-ms="2924" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test_account_Registration()[pri:0, instance:testCases.TC_001_AccountRegisteration@17f9d882]" started-at="2023-06-04T18:40:49 IST" name="test_account_Registration" finished-at="2023-06-04T18:40:52 IST" duration-ms="3307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_account_Registration -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_001_AccountRegisteration@17f9d882]" started-at="2023-06-04T18:40:52 IST" name="tearDown" finished-at="2023-06-04T18:40:54 IST" duration-ms="2062" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_001_AccountRegisteration -->
+    </test> <!-- ChromeTest -->
+  </suite> <!-- Suite -->
+</testng-results>
