@@ -9,6 +9,8 @@ import testBase.BaseClass;
 
 public class TC_001_AccountRegisteration extends BaseClass {
 
+	
+	//Smoke test ..
 	@Test(groups = { "Smoke" })
 
 	public void test_account_Registration() {
