@@ -1,4 +1,5 @@
 pageObjects\RegisterPage.class
+testCases\DummyClassForGit.class
 pageObjects\HomePage.class
 pageObjects\MyAccountPage.class
 testCases\TC_001_AccountRegisteration.class

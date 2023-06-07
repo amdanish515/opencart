@@ -13,7 +13,7 @@
 					<version>3.1.0</version>
 					<configuration>
 						<suiteXmlFiles>
-							<suiteXmlFile>TC_001.xml</suiteXmlFile>
+							<suiteXmlFile>TC_02.xml</suiteXmlFile>
 						</suiteXmlFiles>
 					</configuration>
 				</plugin>
